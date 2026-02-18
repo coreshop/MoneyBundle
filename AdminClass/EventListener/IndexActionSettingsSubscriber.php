@@ -15,7 +15,7 @@ declare(strict_types=1);
  *
  */
 
-namespace CoreShop\Bundle\MoneyBundle\EventListener;
+namespace CoreShop\Bundle\MoneyBundle\AdminClass\EventListener;
 
 use Pimcore\Bundle\AdminBundle\Event\AdminEvents;
 use Pimcore\Bundle\AdminBundle\Event\IndexActionSettingsEvent;
